@@ -1,0 +1,90 @@
+Versão do QGIS: 3.16.16-Hannover
+Código de revisão do QGIS: f5778a89df
+Versão do Qt: 5.11.2
+Versão do GDAL: 3.1.4
+Versão do GEOS: 3.8.1-CAPI-1.13.3
+Versão do PROJ: Rel. 6.3.2, May 1st, 2020
+SLYR (community edition) versão: 4.0.0
+Algoritmo de processamento...
+Algoritmo 'Convert ESRI style to QGIS style XML' iniciando…
+Entrada de parâmetros:
+{ 'INPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Hidrogeologico_2015\\release\\Hidrogeologico.style', 'OUTPUT' : 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Hidrogeologico_2015\\release\\Hidrogeologico.xml' }
+
+Importing Fill symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 16 symbols of type "Fill symbols"
+
+
+1/16: (1) Gr
+2/16: (2) Fr
+3/16: (2) Gr
+4/16: (2) K
+5/16: (3) Fr
+6/16: (3) Gr
+7/16: (3) K
+8/16: (4) Fr
+9/16: (4) Gr
+10/16: (4) K
+11/16: (5) Fr
+12/16: (5) Gr
+13/16: (5) K
+14/16: (6) Fr
+15/16: (6) Gr
+16/16: (6) K
+Importing Line symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Line symbols"
+
+
+Importing Marker symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Marker symbols"
+
+
+Importing Color ramps from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Color ramps"
+
+
+Importing Line Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Line Patches"
+
+
+Importing Area Patches from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Area Patches"
+
+
+Importing Text Symbols from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 1 symbols of type "Text Symbols"
+
+
+1/1: hidrogeologia_Brasil
+Importing Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 1 symbols of type "Labels"
+
+
+1/1: hidrogeologia_Brasil
+Corrected to unique name of hidrogeologia_Brasil_1
+Importing Maplex Labels from C:\Users\Mota\Downloads\simbologia-geosgb\bibliotecas\Hidrogeologico_2015\release\Hidrogeologico.style
+Found 0 symbols of type "Maplex Labels"
+
+
+Tarefa executada em 3.19 segundos
+Resultados:
+{'AREA_PATCH_COUNT': 0,
+'COLOR_RAMP_COUNT': 0,
+'FILL_SYMBOL_COUNT': 16,
+'LABEL_SETTINGS_COUNT': 1,
+'LINE_PATCH_COUNT': 0,
+'LINE_SYMBOL_COUNT': 0,
+'MARKER_SYMBOL_COUNT': 0,
+'OUTPUT': 'C:\\Users\\Mota\\Downloads\\simbologia-geosgb\\bibliotecas\\Hidrogeologico_2015\\release\\Hidrogeologico.xml',
+'REPORT': '',
+'TEXT_FORMAT_COUNT': 1,
+'UNREADABLE_AREA_PATCHES': 0,
+'UNREADABLE_COLOR_RAMPS': 0,
+'UNREADABLE_FILL_SYMBOLS': 0,
+'UNREADABLE_LABEL_SETTINGS': 0,
+'UNREADABLE_LINE_PATCHES': 0,
+'UNREADABLE_LINE_SYMBOLS': 0,
+'UNREADABLE_MARKER_SYMBOLS': 0,
+'UNREADABLE_TEXT_FORMATS': 0}
+
+Carregando camada resultante
+Algoritmo 'Convert ESRI style to QGIS style XML' finalizado
